@@ -20,6 +20,8 @@ dist/
 .env.test.local
 .env.production.local
 
+CLAUDE.md
+
 # Config files
 config.toml
 
